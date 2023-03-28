@@ -1,6 +1,6 @@
 # Minimal Example how to Embed a Live MPL Graph in a QT-Application
 
-This example shows how to embed interactive Graphs in a QT Application created with UI Designer.
+This example shows how to embed interactive Graphs in a QT Application created with UI Designer. I previouly had memoryleak issues with examples I found on the internet. They were not too obvious because it took days until the problem became apparent. If you faced the same issue, I hope this helps you.
 
 ## How to create a GUI
 
